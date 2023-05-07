@@ -7,6 +7,7 @@
 *My changes:*
 - Re-map audio
 - Install USBInjectAll.kext
+- Install NVMeFix.kext
 - Copy boot-args from my EFI below
 
 *Notes:*
